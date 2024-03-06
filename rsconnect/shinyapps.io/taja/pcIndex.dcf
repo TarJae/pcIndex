@@ -1,0 +1,12 @@
+name: pcIndex
+title: pcIndex
+username: taja
+account: taja
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11416294
+bundleId: 8338745
+url: https://taja.shinyapps.io/pcIndex/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
